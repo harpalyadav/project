@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [DBSuite]">
+  <test thread-count="5" name="demoblazeTest(failed)">
+    <classes>
+      <class name="demoblaze_TestNG.DemoBlaze_Test">
+        <methods>
+          <include name="verifyName"/>
+          <include name="greetingUser"/>
+          <include name="signUp"/>
+        </methods>
+      </class> <!-- demoblaze_TestNG.DemoBlaze_Test -->
+    </classes>
+  </test> <!-- demoblazeTest(failed) -->
+</suite> <!-- Failed suite [DBSuite] -->

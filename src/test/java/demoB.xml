@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="DBSuite">
+  <test name="demoblazeTest">
+    <classes>
+      <class name="demoblaze_TestNG.DemoBlaze_Test"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
