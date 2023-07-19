@@ -108,5 +108,5 @@ public class DemoBlaze_Test {
 			e.printStackTrace();
 		}
 	}
-	
+driver.close	
 }
